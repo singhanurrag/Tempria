@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Tempria/static/css/main.98920da0.css",
-    "main.js": "/Tempria/static/js/main.83cbc4ea.js",
+    "main.css": "/Tempria/static/css/main.fe4e3c34.css",
+    "main.js": "/Tempria/static/js/main.d889eea6.js",
     "static/js/787.13d76ca7.chunk.js": "/Tempria/static/js/787.13d76ca7.chunk.js",
     "static/media/bn.gif": "/Tempria/static/media/bn.68e0ee7b68880686af21.gif",
     "index.html": "/Tempria/index.html",
-    "main.98920da0.css.map": "/Tempria/static/css/main.98920da0.css.map",
-    "main.83cbc4ea.js.map": "/Tempria/static/js/main.83cbc4ea.js.map",
+    "main.fe4e3c34.css.map": "/Tempria/static/css/main.fe4e3c34.css.map",
+    "main.d889eea6.js.map": "/Tempria/static/js/main.d889eea6.js.map",
     "787.13d76ca7.chunk.js.map": "/Tempria/static/js/787.13d76ca7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98920da0.css",
-    "static/js/main.83cbc4ea.js"
+    "static/css/main.fe4e3c34.css",
+    "static/js/main.d889eea6.js"
   ]
 }
